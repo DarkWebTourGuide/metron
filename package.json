@@ -1,0 +1,11 @@
+{
+  "name": "metron",
+  "version": "1.0.0",
+  "description": "Metron of the NewGods. Fullstack file structure && config.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChrisAdams.io",
+  "license": "ISC"
+}
