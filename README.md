@@ -1,10 +1,10 @@
 # Metron
 
-Metron is a lightweight fullstack template to quickly set up node applications. Complete with routes, static folder, and monitoring.
+Metron is a lightweight fullstack starter kit to quickly set up node applications. Complete with routes, static folder, and monitoring.
 
 ## Getting Started
 
-- Clone the repository or download the fles directly.
+- Clone the repository or download the files directly.
 - Add files to your project directory.
 
 ## Install Dependencies
